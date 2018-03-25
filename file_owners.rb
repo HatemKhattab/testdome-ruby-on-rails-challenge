@@ -20,4 +20,3 @@ files = {
 }
 
 puts FileOwners.group_by_owners(files)
-
